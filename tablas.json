@@ -1,557 +1,585 @@
 {
-  "Tablas": {
-    "Alcantara": [
-      {
-        "brgy_id": "1",
-        "municipality_id": "1",
-        "brgy_name": "Bagsik"
-      },
-      {
-        "brgy_id": "2",
-        "municipality_id": "1",
-        "brgy_name": "Bonlao"
-      },
-      {
-        "brgy_id": "3",
-        "municipality_id": "1",
-        "brgy_name": "Calagonsao"
-      },
-      {
-        "brgy_id": "4",
-        "municipality_id": "1",
-        "brgy_name": "Camili"
-      },
-      {
-        "brgy_id": "5",
-        "municipality_id": "1",
-        "brgy_name": "Camod-Om"
-      },
-      {
-        "brgy_id": "6",
-        "municipality_id": "1",
-        "brgy_name": "Gui-ob"
-      },
-      {
-        "brgy_id": "7",
-        "municipality_id": "1",
-        "brgy_name": "Lawan"
-      },
-      {
-        "brgy_id": "8",
-        "municipality_id": "1",
-        "brgy_name": "Madalag"
-      },
-      {
-        "brgy_id": "9",
-        "municipality_id": "1",
-        "brgy_name": "Poblacion"
-      },
-      {
-        "brgy_id": "10",
-        "municipality_id": "1",
-        "brgy_name": "San Isidro"
-      },
-      {
-        "brgy_id": "11",
-        "municipality_id": "1",
-        "brgy_name": "San Roque"
-      },
-      {
-        "brgy_id": "12",
-        "municipality_id": "1",
-        "brgy_name": "Tugdan"
-      }
-    ],
-    "Calatrava": [
-      {
-        "brgy_id": "13",
-        "municipality_id": "2",
-        "brgy_name": "Balogo"
-      },
-      {
-        "brgy_id": "14",
-        "municipality_id": "2",
-        "brgy_name": "Linao"
-      },
-      {
-        "brgy_id": "15",
-        "municipality_id": "2",
-        "brgy_name": "Pagsangahan"
-      },
-      {
-        "brgy_id": "16",
-        "municipality_id": "2",
-        "brgy_name": "Pangulo"
-      },
-      {
-        "brgy_id": "17",
-        "municipality_id": "2",
-        "brgy_name": "Poblacion"
-      },
-      {
-        "brgy_id": "18",
-        "municipality_id": "2",
-        "brgy_name": "San Roque"
-      },
-      {
-        "brgy_id": "19",
-        "municipality_id": "2",
-        "brgy_name": "Talisay"
-      }
-    ],
-    "Ferrol": [
-      {
-        "brgy_id": "20",
-        "municipality_id": "3",
-        "brgy_name": "Agnonoc"
-      },
-      {
-        "brgy_id": "21",
-        "municipality_id": "3",
-        "brgy_name": "Bunsoran"
-      },
-      {
-        "brgy_id": "22",
-        "municipality_id": "3",
-        "brgy_name": "Claro M. Recto"
-      },
-      {
-        "brgy_id": "23",
-        "municipality_id": "3",
-        "brgy_name": "Hinaguman"
-      },
-      {
-        "brgy_id": "24",
-        "municipality_id": "3",
-        "brgy_name": "Poblacion"
-      },
-      {
-        "brgy_id": "25",
-        "municipality_id": "3",
-        "brgy_name": "Tubigon"
-      }
-    ],
-    "Looc": [
-      {
-        "brgy_id": "26",
-        "municipality_id": "4",
-        "brgy_name": "Agojo"
-      },
-      {
-        "brgy_id": "27",
-        "municipality_id": "4",
-        "brgy_name": "Balatucan"
-      },
-      {
-        "brgy_id": "28",
-        "municipality_id": "4",
-        "brgy_name": "Buenavista"
-      },
-      {
-        "brgy_id": "29",
-        "municipality_id": "4",
-        "brgy_name": "Camandag"
-      },
-      {
-        "brgy_id": "30",
-        "municipality_id": "4",
-        "brgy_name": "Guinhayaan"
-      },
-      {
-        "brgy_id": "31",
-        "municipality_id": "4",
-        "brgy_name": "Limon Norte"
-      },
-      {
-        "brgy_id": "32",
-        "municipality_id": "4",
-        "brgy_name": "Limon Sur"
-      },
-      {
-        "brgy_id": "33",
-        "municipality_id": "4",
-        "brgy_name": "Manhac"
-      },
-      {
-        "brgy_id": "34",
-        "municipality_id": "4",
-        "brgy_name": "Pili"
-      },
-      {
-        "brgy_id": "35",
-        "municipality_id": "4",
-        "brgy_name": "Poblacion"
-      },
-      {
-        "brgy_id": "36",
-        "municipality_id": "4",
-        "brgy_name": "Punta"
-      },
-      {
-        "brgy_id": "37",
-        "municipality_id": "4",
-        "brgy_name": "Tuguis"
-      }
-    ],
-    "Odiongan": [
-      {
-        "brgy_id": "38",
-        "municipality_id": "5",
-        "brgy_name": "Amatong"
-      },
-      {
-        "brgy_id": "39",
-        "municipality_id": "5",
-        "brgy_name": "Anahao"
-      },
-      {
-        "brgy_id": "40",
-        "municipality_id": "5",
-        "brgy_name": "Bangon"
-      },
-      {
-        "brgy_id": "41",
-        "municipality_id": "5",
-        "brgy_name": "Batiano"
-      },
-      {
-        "brgy_id": "42",
-        "municipality_id": "5",
-        "brgy_name": "Budiong"
-      },
-      {
-        "brgy_id": "43",
-        "municipality_id": "5",
-        "brgy_name": "Canduyong"
-      },
-      {
-        "brgy_id": "44",
-        "municipality_id": "5",
-        "brgy_name": "Dapawan"
-      },
-      {
-        "brgy_id": "45",
-        "municipality_id": "5",
-        "brgy_name": "Gabawan"
-      },
-      {
-        "brgy_id": "46",
-        "municipality_id": "5",
-        "brgy_name": "Libertad"
-      },
-      {
-        "brgy_id": "47",
-        "municipality_id": "5",
-        "brgy_name": "Ligaya (Pob.)"
-      },
-      {
-        "brgy_id": "48",
-        "municipality_id": "5",
-        "brgy_name": "Liwanag (Pob.)"
-      },
-      {
-        "brgy_id": "49",
-        "municipality_id": "5",
-        "brgy_name": "Liwayway (Pob.)"
-      },
-      {
-        "brgy_id": "50",
-        "municipality_id": "5",
-        "brgy_name": "Malilico"
-      },
-      {
-        "brgy_id": "51",
-        "municipality_id": "5",
-        "brgy_name": "Mayha"
-      },
-      {
-        "brgy_id": "52",
-        "municipality_id": "5",
-        "brgy_name": "Panique"
-      },
-      {
-        "brgy_id": "53",
-        "municipality_id": "5",
-        "brgy_name": "Pato-o"
-      },
-      {
-        "brgy_id": "54",
-        "municipality_id": "5",
-        "brgy_name": "Poctoy"
-      },
-      {
-        "brgy_id": "55",
-        "municipality_id": "5",
-        "brgy_name": "Progreso Este"
-      },
-      {
-        "brgy_id": "56",
-        "municipality_id": "5",
-        "brgy_name": "Progreso Weste"
-      },
-      {
-        "brgy_id": "57",
-        "municipality_id": "5",
-        "brgy_name": "Rizal"
-      },
-      {
-        "brgy_id": "58",
-        "municipality_id": "5",
-        "brgy_name": "Tabing Dagat (Pob.)"
-      },
-      {
-        "brgy_id": "59",
-        "municipality_id": "5",
-        "brgy_name": "Tabobo-an"
-      },
-      {
-        "brgy_id": "60",
-        "municipality_id": "5",
-        "brgy_name": "Tuburan"
-      },
-      {
-        "brgy_id": "61",
-        "municipality_id": "5",
-        "brgy_name": "Tulay"
-      },
-      {
-        "brgy_id": "62",
-        "municipality_id": "5",
-        "brgy_name": "Tumingad"
-      }
-    ],
-    "San Agustin": [
-      {
-        "brgy_id": "63",
-        "municipality_id": "6",
-        "brgy_name": "Bachawan"
-      },
-      {
-        "brgy_id": "64",
-        "municipality_id": "6",
-        "brgy_name": "Binongahan"
-      },
-      {
-        "brgy_id": "65",
-        "municipality_id": "6",
-        "brgy_name": "Binugusan"
-      },
-      {
-        "brgy_id": "66",
-        "municipality_id": "6",
-        "brgy_name": "Buli"
-      },
-      {
-        "brgy_id": "67",
-        "municipality_id": "6",
-        "brgy_name": "Cabolutan"
-      },
-      {
-        "brgy_id": "68",
-        "municipality_id": "6",
-        "brgy_name": "Cagbuaya"
-      },
-      {
-        "brgy_id": "69",
-        "municipality_id": "6",
-        "brgy_name": "Camantaya"
-      },
-      {
-        "brgy_id": "70",
-        "municipality_id": "6",
-        "brgy_name": "Carmen"
-      },
-      {
-        "brgy_id": "71",
-        "municipality_id": "6",
-        "brgy_name": "Cawayan"
-      },
-      {
-        "brgy_id": "72",
-        "municipality_id": "6",
-        "brgy_name": "Doña Juana"
-      },
-      {
-        "brgy_id": "73",
-        "municipality_id": "6",
-        "brgy_name": "Dubduban"
-      },
-      {
-        "brgy_id": "74",
-        "municipality_id": "6",
-        "brgy_name": "Lusong"
-      },
-      {
-        "brgy_id": "75",
-        "municipality_id": "6",
-        "brgy_name": "Mahabang Baybay"
-      },
-      {
-        "brgy_id": "76",
-        "municipality_id": "6",
-        "brgy_name": "Poblacion"
-      },
-      {
-        "brgy_id": "77",
-        "municipality_id": "6",
-        "brgy_name": "Sugod"
-      }
-    ],
-    "San Andres": [
-      {
-        "brgy_id": "78",
-        "municipality_id": "7",
-        "brgy_name": "Agpudlos"
-      },
-      {
-        "brgy_id": "79",
-        "municipality_id": "7",
-        "brgy_name": "Calunacon"
-      },
-      {
-        "brgy_id": "80",
-        "municipality_id": "7",
-        "brgy_name": "Doña Trinidad"
-      },
-      {
-        "brgy_id": "81",
-        "municipality_id": "7",
-        "brgy_name": "Juncarlo"
-      },
-      {
-        "brgy_id": "82",
-        "municipality_id": "7",
-        "brgy_name": "Linawan"
-      },
-      {
-        "brgy_id": "83",
-        "municipality_id": "7",
-        "brgy_name": "Mabini"
-      },
-      {
-        "brgy_id": "84",
-        "municipality_id": "7",
-        "brgy_name": "Marigondon Norte"
-      },
-      {
-        "brgy_id": "85",
-        "municipality_id": "7",
-        "brgy_name": "Marigondon Sur"
-      },
-      {
-        "brgy_id": "86",
-        "municipality_id": "7",
-        "brgy_name": "Matutuna"
-      },
-      {
-        "brgy_id": "87",
-        "municipality_id": "7",
-        "brgy_name": "Pag-Alad"
-      },
-      {
-        "brgy_id": "88",
-        "municipality_id": "7",
-        "brgy_name": "Poblacion"
-      },
-      {
-        "brgy_id": "89",
-        "municipality_id": "7",
-        "brgy_name": "Tan-Agan"
-      },
-      {
-        "brgy_id": "90",
-        "municipality_id": "7",
-        "brgy_name": "Victoria"
-      }
-    ],
-    "Santa Fe": [
-      {
-        "brgy_id": "91",
-        "municipality_id": "8",
-        "brgy_name": "Agmanic"
-      },
-      {
-        "brgy_id": "92",
-        "municipality_id": "8",
-        "brgy_name": "Canyayo"
-      },
-      {
-        "brgy_id": "93",
-        "municipality_id": "8",
-        "brgy_name": "Danao Norte"
-      },
-      {
-        "brgy_id": "94",
-        "municipality_id": "8",
-        "brgy_name": "Danao Sur"
-      },
-      {
-        "brgy_id": "95",
-        "municipality_id": "8",
-        "brgy_name": "Guinbirayan"
-      },
-      {
-        "brgy_id": "96",
-        "municipality_id": "8",
-        "brgy_name": "Guintigbasan"
-      },
-      {
-        "brgy_id": "97",
-        "municipality_id": "8",
-        "brgy_name": "Magsaysay"
-      },
-      {
-        "brgy_id": "98",
-        "municipality_id": "8",
-        "brgy_name": "Mat-i"
-      },
-      {
-        "brgy_id": "99",
-        "municipality_id": "8",
-        "brgy_name": "Pandan"
-      },
-      {
-        "brgy_id": "100",
-        "municipality_id": "8",
-        "brgy_name": "Poblacion"
-      },
-      {
-        "brgy_id": "101",
-        "municipality_id": "8",
-        "brgy_name": "Tabugon"
-      }
-    ],
-    "Santa Maria": [
-      {
-        "brgy_id": "102",
-        "municipality_id": "9",
-        "brgy_name": "Bonga"
-      },
-      {
-        "brgy_id": "103",
-        "municipality_id": "9",
-        "brgy_name": "Concepcion Norte (Pob.)"
-      },
-      {
-        "brgy_id": "104",
-        "municipality_id": "9",
-        "brgy_name": "Concepcion Sur"
-      },
-      {
-        "brgy_id": "105",
-        "municipality_id": "9",
-        "brgy_name": "Paroyhog"
-      },
-      {
-        "brgy_id": "106",
-        "municipality_id": "9",
-        "brgy_name": "San Isidro"
-      },
-      {
-        "brgy_id": "107",
-        "municipality_id": "9",
-        "brgy_name": "Santo Niño"
-      }
+    "Tablas": [
+        {
+            "municipality_id": "1",
+            "name": "Alcantara",      
+            "barangays": [
+                {
+                    "brgy_id": "1",
+                    "municipality_id": "1",
+                    "brgy_name": "Bagsik"
+                },
+                {
+                    "brgy_id": "2",
+                    "municipality_id": "1",
+                    "brgy_name": "Bonlao"
+                },
+                {
+                    "brgy_id": "3",
+                    "municipality_id": "1",
+                    "brgy_name": "Calagonsao"
+                },
+                {
+                    "brgy_id": "4",
+                    "municipality_id": "1",
+                    "brgy_name": "Camili"
+                },
+                {
+                    "brgy_id": "5",
+                    "municipality_id": "1",
+                    "brgy_name": "Camod-Om"
+                },
+                {
+                    "brgy_id": "6",
+                    "municipality_id": "1",
+                    "brgy_name": "Gui-ob"
+                },
+                {
+                    "brgy_id": "7",
+                    "municipality_id": "1",
+                    "brgy_name": "Lawan"
+                },
+                {
+                    "brgy_id": "8",
+                    "municipality_id": "1",
+                    "brgy_name": "Madalag"
+                },
+                {
+                    "brgy_id": "9",
+                    "municipality_id": "1",
+                    "brgy_name": "Poblacion"
+                },
+                {
+                    "brgy_id": "10",
+                    "municipality_id": "1",
+                    "brgy_name": "San Isidro"
+                },
+                {
+                    "brgy_id": "11",
+                    "municipality_id": "1",
+                    "brgy_name": "San Roque"
+                },
+                {
+                    "brgy_id": "12",
+                    "municipality_id": "1",
+                    "brgy_name": "Tugdan"
+                }
+            ]
+        },
+            "municipality_id": "2",
+            "name": "Calatrava",      
+            "barangays": [
+                {
+                    "brgy_id": "13",
+                    "municipality_id": "2",
+                    "brgy_name": "Balogo"
+                },
+                {
+                    "brgy_id": "14",
+                    "municipality_id": "2",
+                    "brgy_name": "Linao"
+                },
+                {
+                    "brgy_id": "15",
+                    "municipality_id": "2",
+                    "brgy_name": "Pagsangahan"
+                },
+                {
+                    "brgy_id": "16",
+                    "municipality_id": "2",
+                    "brgy_name": "Pangulo"
+                },
+                {
+                    "brgy_id": "17",
+                    "municipality_id": "2",
+                    "brgy_name": "Poblacion"
+                },
+                {
+                    "brgy_id": "18",
+                    "municipality_id": "2",
+                    "brgy_name": "San Roque"
+                },
+                {
+                    "brgy_id": "19",
+                    "municipality_id": "2",
+                    "brgy_name": "Talisay"
+                }
+            ]
+        },
+            "municipality_id": "3",
+            "name": "Ferrol",      
+            "barangays": [
+                {
+                    "brgy_id": "20",
+                    "municipality_id": "3",
+                    "brgy_name": "Agnonoc"
+                },
+                {
+                    "brgy_id": "21",
+                    "municipality_id": "3",
+                    "brgy_name": "Bunsoran"
+                },
+                {
+                    "brgy_id": "22",
+                    "municipality_id": "3",
+                    "brgy_name": "Claro M. Recto"
+                },
+                {
+                    "brgy_id": "23",
+                    "municipality_id": "3",
+                    "brgy_name": "Hinaguman"
+                },
+                {
+                    "brgy_id": "24",
+                    "municipality_id": "3",
+                    "brgy_name": "Poblacion"
+                },
+                {
+                    "brgy_id": "25",
+                    "municipality_id": "3",
+                    "brgy_name": "Tubigon"
+                }
+            ]
+        },
+            "municipality_id": "4",
+            "name": "Looc",      
+            "barangays": [
+                {
+                    "brgy_id": "26",
+                    "municipality_id": "4",
+                    "brgy_name": "Agojo"
+                },
+                {
+                    "brgy_id": "27",
+                    "municipality_id": "4",
+                    "brgy_name": "Balatucan"
+                },
+                {
+                    "brgy_id": "28",
+                    "municipality_id": "4",
+                    "brgy_name": "Buenavista"
+                },
+                {
+                    "brgy_id": "29",
+                    "municipality_id": "4",
+                    "brgy_name": "Camandag"
+                },
+                {
+                    "brgy_id": "30",
+                    "municipality_id": "4",
+                    "brgy_name": "Guinhayaan"
+                },
+                {
+                    "brgy_id": "31",
+                    "municipality_id": "4",
+                    "brgy_name": "Limon Norte"
+                },
+                {
+                    "brgy_id": "32",
+                    "municipality_id": "4",
+                    "brgy_name": "Limon Sur"
+                },
+                {
+                    "brgy_id": "33",
+                    "municipality_id": "4",
+                    "brgy_name": "Manhac"
+                },
+                {
+                    "brgy_id": "34",
+                    "municipality_id": "4",
+                    "brgy_name": "Pili"
+                },
+                {
+                    "brgy_id": "35",
+                    "municipality_id": "4",
+                    "brgy_name": "Poblacion"
+                },
+                {
+                    "brgy_id": "36",
+                    "municipality_id": "4",
+                    "brgy_name": "Punta"
+                },
+                {
+                    "brgy_id": "37",
+                    "municipality_id": "4",
+                    "brgy_name": "Tuguis"
+                }
+            ]
+        },
+            "municipality_id": "5",
+            "name": "Odiongan",      
+            "barangays": [
+                {
+                    "brgy_id": "38",
+                    "municipality_id": "5",
+                    "brgy_name": "Amatong"
+                },
+                {
+                    "brgy_id": "39",
+                    "municipality_id": "5",
+                    "brgy_name": "Anahao"
+                },
+                {
+                    "brgy_id": "40",
+                    "municipality_id": "5",
+                    "brgy_name": "Bangon"
+                },
+                {
+                    "brgy_id": "41",
+                    "municipality_id": "5",
+                    "brgy_name": "Batiano"
+                },
+                {
+                    "brgy_id": "42",
+                    "municipality_id": "5",
+                    "brgy_name": "Budiong"
+                },
+                {
+                    "brgy_id": "43",
+                    "municipality_id": "5",
+                    "brgy_name": "Canduyong"
+                },
+                {
+                    "brgy_id": "44",
+                    "municipality_id": "5",
+                    "brgy_name": "Dapawan"
+                },
+                {
+                    "brgy_id": "45",
+                    "municipality_id": "5",
+                    "brgy_name": "Gabawan"
+                },
+                {
+                    "brgy_id": "46",
+                    "municipality_id": "5",
+                    "brgy_name": "Libertad"
+                },
+                {
+                  "brgy_id": "47",
+                    "municipality_id": "5",
+                    "brgy_name": "Ligaya (Pob.)"
+                },
+                {
+                    "brgy_id": "48",
+                    "municipality_id": "5",
+                    "brgy_name": "Liwanag (Pob.)"
+                },
+                {
+                    "brgy_id": "49",
+                    "municipality_id": "5",
+                    "brgy_name": "Liwayway (Pob.)"
+                },
+                {
+                    "brgy_id": "50",
+                    "municipality_id": "5",
+                    "brgy_name": "Malilico"
+                },
+                {
+                    "brgy_id": "51",
+                    "municipality_id": "5",
+                    "brgy_name": "Mayha"
+                },
+                {
+                    "brgy_id": "52",
+                    "municipality_id": "5",
+                    "brgy_name": "Panique"
+                },
+                {
+                    "brgy_id": "53",
+                    "municipality_id": "5",
+                    "brgy_name": "Pato-o"
+                },
+                {
+                    "brgy_id": "54",
+                    "municipality_id": "5",
+                    "brgy_name": "Poctoy"
+                },
+                {
+                    "brgy_id": "55",
+                    "municipality_id": "5",
+                    "brgy_name": "Progreso Este"
+                },
+                {
+                    "brgy_id": "56",
+                    "municipality_id": "5",
+                    "brgy_name": "Progreso Weste"
+                },
+                {
+                    "brgy_id": "57",
+                    "municipality_id": "5",
+                    "brgy_name": "Rizal"
+                },
+                {
+                    "brgy_id": "58",
+                    "municipality_id": "5",
+                    "brgy_name": "Tabing Dagat (Pob.)"
+                },
+                {
+                    "brgy_id": "59",
+                    "municipality_id": "5",
+                    "brgy_name": "Tabobo-an"
+                },
+                {
+                    "brgy_id": "60",
+                    "municipality_id": "5",
+                    "brgy_name": "Tuburan"
+                },
+                {
+                    "brgy_id": "61",
+                    "municipality_id": "5",
+                    "brgy_name": "Tulay"
+                },
+                {
+                    "brgy_id": "62",
+                    "municipality_id": "5",
+                    "brgy_name": "Tumingad"
+                }
+            ]
+        },
+            "municipality_id": "6",
+            "name": "San Agustin",      
+            "barangays": [
+                {
+                    "brgy_id": "63",
+                    "municipality_id": "6",
+                    "brgy_name": "Bachawan"
+                },
+                {
+                    "brgy_id": "64",
+                    "municipality_id": "6",
+                    "brgy_name": "Binongahan"
+                },
+                {
+                    "brgy_id": "65",
+                    "municipality_id": "6",
+                    "brgy_name": "Binugusan"
+                },
+                {
+                    "brgy_id": "66",
+                    "municipality_id": "6",
+                    "brgy_name": "Buli"
+                },
+                {
+                    "brgy_id": "67",
+                    "municipality_id": "6",
+                    "brgy_name": "Cabolutan"
+                },
+                {
+                    "brgy_id": "68",
+                    "municipality_id": "6",
+                    "brgy_name": "Cagbuaya"
+                },
+                {
+                    "brgy_id": "69",
+                    "municipality_id": "6",
+                    "brgy_name": "Camantaya"
+                },
+                {
+                    "brgy_id": "70",
+                    "municipality_id": "6",
+                    "brgy_name": "Carmen"
+                },
+                {
+                    "brgy_id": "71",
+                    "municipality_id": "6",
+                    "brgy_name": "Cawayan"
+                },
+                {
+                    "brgy_id": "72",
+                    "municipality_id": "6",
+                    "brgy_name": "Doña Juana"
+                },
+                {
+                    "brgy_id": "73",
+                    "municipality_id": "6",
+                    "brgy_name": "Dubduban"
+                },
+                {
+                    "brgy_id": "74",
+                    "municipality_id": "6",
+                    "brgy_name": "Lusong"
+                },
+                {
+                    "brgy_id": "75",
+                    "municipality_id": "6",
+                    "brgy_name": "Mahabang Baybay"
+                },
+                {
+                    "brgy_id": "76",
+                    "municipality_id": "6",
+                    "brgy_name": "Poblacion"
+                },
+                {
+                    "brgy_id": "77",
+                    "municipality_id": "6",
+                    "brgy_name": "Sugod"
+                }
+            ]
+        },
+            "municipality_id": "7",
+            "name": "San Andres",      
+            "barangays": [
+                {
+                    "brgy_id": "78",
+                    "municipality_id": "7",
+                    "brgy_name": "Agpudlos"
+                },
+                {
+                    "brgy_id": "79",
+                    "municipality_id": "7",
+                    "brgy_name": "Calunacon"
+                },
+                {
+                    "brgy_id": "80",
+                    "municipality_id": "7",
+                    "brgy_name": "Doña Trinidad"
+                },
+                {
+                    "brgy_id": "81",
+                    "municipality_id": "7",
+                    "brgy_name": "Juncarlo"
+                },
+                {
+                    "brgy_id": "82",
+                    "municipality_id": "7",
+                    "brgy_name": "Linawan"
+                },
+                {
+                    "brgy_id": "83",
+                    "municipality_id": "7",
+                    "brgy_name": "Mabini"
+                },
+                {
+                    "brgy_id": "84",
+                    "municipality_id": "7",
+                    "brgy_name": "Marigondon Norte"
+                },
+                {
+                    "brgy_id": "85",
+                    "municipality_id": "7",
+                    "brgy_name": "Marigondon Sur"
+                },
+                {
+                    "brgy_id": "86",
+                    "municipality_id": "7",
+                    "brgy_name": "Matutuna"
+                },
+                {
+                    "brgy_id": "87",
+                    "municipality_id": "7",
+                    "brgy_name": "Pag-Alad"
+                },
+                {
+                    "brgy_id": "88",
+                    "municipality_id": "7",
+                    "brgy_name": "Poblacion"
+                },
+                {
+                    "brgy_id": "89",
+                    "municipality_id": "7",
+                    "brgy_name": "Tan-Agan"
+                },
+                {
+                    "brgy_id": "90",
+                    "municipality_id": "7",
+                    "brgy_name": "Victoria"
+                }
+            ]
+        },
+            "municipality_id": "8",
+            "name": "Santa Fe",      
+            "barangays": [
+                {
+                    "brgy_id": "91",
+                    "municipality_id": "8",
+                    "brgy_name": "Agmanic"
+                },
+                {
+                    "brgy_id": "92",
+                    "municipality_id": "8",
+                    "brgy_name": "Canyayo"
+                },
+                {
+                    "brgy_id": "93",
+                    "municipality_id": "8",
+                    "brgy_name": "Danao Norte"
+                },
+                {
+                    "brgy_id": "94",
+                    "municipality_id": "8",
+                    "brgy_name": "Danao Sur"
+                },
+                {
+                    "brgy_id": "95",
+                    "municipality_id": "8",
+                    "brgy_name": "Guinbirayan"
+                },
+                {
+                    "brgy_id": "96",
+                    "municipality_id": "8",
+                    "brgy_name": "Guintigbasan"
+                },
+                {
+                    "brgy_id": "97",
+                    "municipality_id": "8",
+                    "brgy_name": "Magsaysay"
+                },
+                {
+                    "brgy_id": "98",
+                    "municipality_id": "8",
+                    "brgy_name": "Mat-i"
+                },
+                {
+                    "brgy_id": "99",
+                    "municipality_id": "8",
+                    "brgy_name": "Pandan"
+                },
+                {
+                    "brgy_id": "100",
+                    "municipality_id": "8",
+                    "brgy_name": "Poblacion"
+                },
+                {
+                    "brgy_id": "101",
+                    "municipality_id": "8",
+                    "brgy_name": "Tabugon"
+                }
+            ]
+        },
+            "municipality_id": "9",
+            "name": "Santa Maria",      
+            "barangays": [
+                {
+                    "brgy_id": "102",
+                    "municipality_id": "9",
+                    "brgy_name": "Bonga"
+                },
+                {
+                    "brgy_id": "103",
+                    "municipality_id": "9",
+                    "brgy_name": "Concepcion Norte (Pob.)"
+                },
+                {
+                    "brgy_id": "104",
+                    "municipality_id": "9",
+                    "brgy_name": "Concepcion Sur"
+                },
+                {
+                    "brgy_id": "105",
+                    "municipality_id": "9",
+                    "brgy_name": "Paroyhog"
+                },
+                {
+                    "brgy_id": "106",
+                    "municipality_id": "9",
+                    "brgy_name": "San Isidro"
+                },
+                {
+                    "brgy_id": "107",
+                    "municipality_id": "9",
+                    "brgy_name": "Santo Niño"
+                }
+            ]
+        }
     ]
-  }
 }
