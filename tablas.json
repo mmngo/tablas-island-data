@@ -66,6 +66,7 @@
                 }
             ]
         },
+        {
             "municipality_id": "2",
             "name": "Calatrava",      
             "barangays": [
@@ -106,6 +107,7 @@
                 }
             ]
         },
+        {
             "municipality_id": "3",
             "name": "Ferrol",      
             "barangays": [
@@ -141,6 +143,7 @@
                 }
             ]
         },
+        {
             "municipality_id": "4",
             "name": "Looc",      
             "barangays": [
@@ -206,6 +209,7 @@
                 }
             ]
         },
+        {
             "municipality_id": "5",
             "name": "Odiongan",      
             "barangays": [
@@ -336,6 +340,7 @@
                 }
             ]
         },
+        {
             "municipality_id": "6",
             "name": "San Agustin",      
             "barangays": [
@@ -416,6 +421,7 @@
                 }
             ]
         },
+        {
             "municipality_id": "7",
             "name": "San Andres",      
             "barangays": [
@@ -486,6 +492,7 @@
                 }
             ]
         },
+        {
             "municipality_id": "8",
             "name": "Santa Fe",      
             "barangays": [
@@ -546,6 +553,7 @@
                 }
             ]
         },
+        {
             "municipality_id": "9",
             "name": "Santa Maria",      
             "barangays": [
